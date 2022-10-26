@@ -208,15 +208,15 @@
 			<d>27</d>
 			<a>0</a>
 			<alpha>90</alpha>
-			<minValue>-53.2851</minValue>
-			<maxValue>0</maxValue>
+			<minValue>0</minValue>
+			<maxValue>40</maxValue>
 			<viscousFriction>5.0e+7</viscousFriction>
 		</joint>
 		<joint type='Revolute'>
 			<theta> d9+135</theta>
 			<d>26.5</d>
 			<a>48.0005</a>
-			<alpha>90</alpha>
+			<alpha>-90</alpha>
 			<minValue>-53.2851</minValue>
 			<maxValue>64.1713</maxValue>
 			<viscousFriction>5.0e+7</viscousFriction>
@@ -226,8 +226,8 @@
 			<d>0</d>
 			<a>0</a>
 			<alpha>0</alpha>
-			<minValue>-106.57</minValue>
-			<maxValue>0</maxValue>
+			<minValue>0</minValue>
+			<maxValue>90</maxValue>
 			<viscousFriction>5.0e+7</viscousFriction>
 		</joint>
 		<link dynamicJointType='Revolute'>Thumb-Bottom_2.xml</link>
