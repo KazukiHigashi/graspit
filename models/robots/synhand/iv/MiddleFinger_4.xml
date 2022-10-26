@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<root>
+	<material>plastic</material>
+	<mass>39.7506</mass>
+	<cog>-0.0245 1.43623e-16 0.00427471</cog>
+	<inertia_matrix>0.002 0 -0 0  0.011 -0 -0  -0 0.011</inertia_matrix>
+	<geometryFile>MiddleFinger_4.iv</geometryFile>
+</root>

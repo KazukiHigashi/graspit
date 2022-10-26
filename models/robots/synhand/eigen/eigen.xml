@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!-- d0: rev0, min=-1.86, max=0 -->
+<!-- d1: rev1, min=0, max=1.86 -->
+<!-- d2: rev2, min=0, max=1.86 -->
+<!-- d3: rev3, min=0, max=1.86 -->
+<!-- d4: rev4, min=0, max=1.86 -->
+<!-- d5: rev5, min=0, max=1.86 -->
+<!-- d6: rev6, min=0, max=1.86 -->
+<!-- d7: rev7, min=0, max=1.86 -->
+<!-- d8: rev8, min=-0.93, max=0 -->
+<!-- d9: rev9, min=-0.93, max=1.12 -->
+<!-- d10: rev10, min=-1.86, max=0 -->
+<EigenGrasps dimensions="11">
+	<EG>
+		<EigenValue value="0.5"/> <!--EigenValue is not used in the code at this stage -->
+		<!--Limits min="0" max="0"/-->
+		<DimVals d0="-0.93" d1="0.93" d2="0.93" d3="0.93" d4="0.93" d5="0.93" d6="0.93" d7="0.93" d8="-0.465" d9="0.095" d10="-0.93"/>
+	</EG>
+	<ORIGIN>
+		<EigenValue value="0.5"/> 
+		<DimVals d0="-0.93" d1="0.93" d2="0.93" d3="0.93" d4="0.93" d5="0.93" d6="0.93" d7="0.93" d8="-0.465" d9="0.095" d10="-0.93"/>
+	</ORIGIN>
+</EigenGrasps>
