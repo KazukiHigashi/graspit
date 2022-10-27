@@ -173,7 +173,7 @@
 	<!-- Pinky -->
 	<chain> 
 		<transform> 
-			<translation>-26 0 -26.9</translation>
+			<translation>-26 0 -49.9</translation>
 			<rotationMatrix>1 0 0 0 1 0 0 0 1 </rotationMatrix> 
 		</transform>
 		<joint type='Revolute'>
@@ -208,8 +208,8 @@
 			<d>27</d>
 			<a>0</a>
 			<alpha>90</alpha>
-			<minValue>0</minValue>
-			<maxValue>40</maxValue>
+			<minValue>-40</minValue>
+			<maxValue>0</maxValue>
 			<viscousFriction>5.0e+7</viscousFriction>
 		</joint>
 		<joint type='Revolute'>
