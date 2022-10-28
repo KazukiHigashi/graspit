@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<root>
+	<material>plastic</material>
+	<mass>58.1622</mass>
+	<cog>-4.70749e-10 -0.0180694 0.0195459</cog>
+	<inertia_matrix>0.005 -0 -0.002 -0  0.01 0 -0.002  0 0.007</inertia_matrix>
+	<geometryFile>Thumb-Bottom_2.iv</geometryFile>
+</root>

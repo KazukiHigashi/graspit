@@ -2,7 +2,7 @@
 <root>
 	<material>plastic</material>
 	<mass>250.809</mass>
-	<cog>-0.0040272 7.93976e-06 -0.0105178</cog>
+	<cog>-4.0272 0.00793976 -10.5178</cog>
 	<inertia_matrix>0.139 -0 -0.004 -0  0.174 0 -0.004  0 0.042</inertia_matrix>
 	<geometryFile>base_link.iv</geometryFile>
 </root>

@@ -3,5 +3,5 @@
 	<material>rubber</material>
 	<mass>440</mass>
 	<cog>0 0 0</cog>
-	<geometryFile type="Inventor">cylinder.iv</geometryFile>
+	<geometryFile type="Inventor">cylinder25.iv</geometryFile>
 </root>

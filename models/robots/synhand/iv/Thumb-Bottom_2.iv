@@ -1,26 +1,25 @@
 #Inventor V2.1 ascii
 
 
-
   Separator {
-    Translation{
-        translation 0 -23 -26
-    }
+
     Transform {
-      translation -1.5920408e-018 -0.023 -0.026000001
-      rotation -0.57735026 -0.57735026 -0.57735026  2.0943952
+      translation -1.5920409e-015 23 -26
+      rotation 0.57735026 -0.57735026 0.57735026  2.0943952
       scaleFactor 1 1 1
       scaleOrientation 0 0 1  0
 
-    }    
-    RotationXYZ {
-      axis    X
-      angle   0
     }
     DEF _visual_0_Thumb-Bottom_2 Separator {
 
       DEF _<STL_BINARY> Separator {
 
+        Transform {
+          translation 0 0 0
+          rotation 0 0 1  0
+          scaleFactor 1 1 1
+
+        }
         Material {
           ambientColor 0.2 0.2 0.2
           diffuseColor 0.89803922 0.91764706 0.92941177
@@ -10258,4 +10257,3 @@
       }
     }
   }
-

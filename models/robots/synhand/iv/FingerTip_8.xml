@@ -2,7 +2,7 @@
 <root>
 	<material>plastic</material>
 	<mass>56.4162</mass>
-	<cog>0.0206921 0.000165841 0.0039</cog>
+	<cog>20.6921 0.165841 3.9</cog>
 	<inertia_matrix>0.002 0 -0 0  0.008 -0 -0  -0 0.009</inertia_matrix>
 	<geometryFile>FingerTip_8.iv</geometryFile>
 </root>

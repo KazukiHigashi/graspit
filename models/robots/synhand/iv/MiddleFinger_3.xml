@@ -2,7 +2,7 @@
 <root>
 	<material>plastic</material>
 	<mass>39.7506</mass>
-	<cog>-0.0245 1.15637e-17 0.00427471</cog>
+	<cog>-24.5 1.15637e-14 4.27471</cog>
 	<inertia_matrix>0.002 0 -0 0  0.011 -0 -0  -0 0.011</inertia_matrix>
 	<geometryFile>MiddleFinger_3.iv</geometryFile>
 </root>
